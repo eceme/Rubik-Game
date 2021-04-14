@@ -4,5 +4,6 @@
 * We find the square where the user wants to change the color from the coordinates of the place where the user clicks with the mouse.
 * The color of the clicked square is randomly painted with one of the 5 colors we have determined.
 * When all the squares are the same color, the game is completed with the text "You won".
+* StdDraw.java and Rubik.java files should be under the same package.
 ##### Youtube Link:
 https://www.youtube.com/watch?v=4QwLHbI_iVs
